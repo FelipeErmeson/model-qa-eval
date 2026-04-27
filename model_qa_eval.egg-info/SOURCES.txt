@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+model_qa_eval.egg-info/PKG-INFO
+model_qa_eval.egg-info/SOURCES.txt
+model_qa_eval.egg-info/dependency_links.txt
+model_qa_eval.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/utils.py
+src/ingestao/__init__.py
+src/ingestao/insert_dataset_pinecone.py
+src/notebooks/__init__.py
+src/prompts/__init__.py
+src/prompts/prompts_template.py
+src/services/__init__.py
+src/services/auth_service.py
+src/services/index_service.py

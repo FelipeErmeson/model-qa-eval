@@ -1,0 +1,4 @@
+.env
+.vscode
+src/notebooks/ead.ipynb
+src/*.pyc
