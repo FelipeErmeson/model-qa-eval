@@ -1,4 +1,4 @@
 .env
 .vscode
 src/notebooks/ead.ipynb
-src/*.pyc
+__pycache__/
