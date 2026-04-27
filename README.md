@@ -1,4 +1,4 @@
-# Model Q&A EVAL
+# Model Q&A Eval
 
 ## 1. Apresentação
 
@@ -116,6 +116,7 @@ model-qa-eval/
 - **LangChain**: Um framework de código aberto poderoso para criação de agentes e soluções RAG.
 - **Pinecone**: Banco de dados vetorial escalável e ótima integração com o langchain. Além da versão free tier possuir capacidade de inserir todo os dados disponibilizados e não ter nenhum custo.
 - **Modelos OpenAI**: Escolhi modelos como gpt-5.4-nano e gpt-4o-mini para os experimentos, exclusivamente pelo custo econômico.
+- **Modelo de embeddings**: O modelo escolhido para realizar os embeddings dos chunks foi o text-embedding-3-small, por motivos de custo.
 
 ## 5. Resultados
 
