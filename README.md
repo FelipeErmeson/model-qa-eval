@@ -88,6 +88,8 @@ model-qa-eval/
 ├── requirements.txt                                  (arquivo de instalação de pacotes Python)
 ├── .env                                              (seu arquivo de tokens de APIs)
 ├── experiments.csv                                   (arquivo responsável por registrar os experimentos a cada run)
+├── .vscode/
+    └── launch.json                                   (configurações de debug)
 ├── src/
 │   ├── main.py                                       (pipeline de avaliação do modelo)
 │   ├── error_analysis.py                             (script para análise de erros)
@@ -107,8 +109,7 @@ model-qa-eval/
 │   └── notebooks/
 │       ├── estimativa_custo.ipynb                    (estimativa de tokens e custo)
 │       └── avaliacao_resultados.ipynb                (gera métricas, análise dos resultados e salva arquivo csv)
-└── .vscode/
-    └── launch.json                                   (configurações de debug)
+
 ```
 
 ## 4. Características e Decisões Técnicas
