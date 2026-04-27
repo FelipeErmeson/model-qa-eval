@@ -1,4 +1,10 @@
 .env
-.vscode
 src/notebooks/ead.ipynb
 __pycache__/
+
+# Ignorar tudo dentro de .vscode
+.vscode/*
+
+# Mas permitir estes arquivos específicos
+!.vscode/settings.json
+!.vscode/launch.json
