@@ -162,7 +162,7 @@ model-qa-eval/
 
 ### 2. Experimento com o modelo gpt-4o-mini
 
-Resultado utilizando chunks mais relevantes:
+**Resultado utilizando chunks mais relevantes:**
 
 | classe | precision | recall | f1-score | support |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ Resultado utilizando chunks mais relevantes:
 | macro avg | 0.80 | 0.73 | 0.71 | 3286 |
 | weighted avg | 0.81 | 0.72 | 0.70 | 3286 |
 
-Resultado utilizando todo o documento (full context):
+**Resultado utilizando todo o documento (full context):**
 
 | classe | precision | recall | f1-score | support |
 |---|---|---|---|---|
